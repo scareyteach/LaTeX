@@ -1,0 +1,3215 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1 Portable) (preloaded format=pdflatex 2024.8.23)  19 FEB 2025 17:04
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/scarey/Documents/LaTeX/Calc Notebook/Main.tex"
+(c:/Users/scarey/Documents/LaTeX/Calc Notebook/Main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(exam.cls
+Document Class: exam 2017/12/17 Version 2.603 by Philip Hirschhorn
+(C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+\@extrawidth=\skip50
+\@rightmargin=\skip51
+\@extrahead=\skip52
+\@extrafoot=\skip53
+\run@exhd=\skip54
+\fp@exhd=\skip55
+\run@exft=\skip56
+\fp@exft=\skip57
+\covrun@exhd=\skip58
+\covfp@exhd=\skip59
+\covrun@exft=\skip60
+\covfp@exft=\skip61
+\c@num@coverpages=\count195
+\c@latest@ques=\count196
+\c@ques@end=\count197
+\c@last@object=\count198
+\c@incmp@ques=\count199
+\c@next@ques=\count266
+\c@next@page=\count267
+\c@tmp@hlfcntr=\count268
+\c@ifpos@cntr=\count269
+\c@question=\count270
+\c@partno=\count271
+\c@subpart=\count272
+\c@subsubpart=\count273
+\c@choice=\count274
+\c@numpoints=\count275
+\c@numbonuspoints=\count276
+\c@pointsof@thisquestion=\count277
+\c@bonuspointsof@thisquestion=\count278
+\c@numquestions=\count279
+\c@numparts=\count280
+\c@numsubparts=\count281
+\c@numsubsubparts=\count282
+\c@Curr@Page=\count283
+\c@@pagepoints=\count284
+\c@@pagebonuspoints=\count285
+\c@pageof@pagepoints=\count286
+\c@pageof@pagebonuspoints=\count287
+\c@latest@points=\count288
+\c@latest@bonuspoints=\count289
+\pageinfo@commands=\toks17
+\temp@toks=\toks18
+\pagepoint@commands=\toks19
+\point@toks=\toks20
+\c@ques@object=\count290
+\marginpointssep=\skip62
+\rightpointsmargin=\skip63
+\choice@toks=\toks21
+\answerlinelength=\skip64
+\answerskip=\skip65
+\answerclearance=\skip66
+\fillinlinelength=\skip67
+\linefillheight=\skip68
+\linefillthickness=\skip69
+\dottedlinefillheight=\skip70
+\gridsize=\skip71
+\gridlinewidth=\skip72
+\minboxheight=\skip73
+\c@@iterator=\count291
+\@cellwidth=\skip74
+\c@tbl@points=\count292
+\c@tbl@bonuspoints=\count293
+\c@pq@index=\count294
+\c@pq@index@pts=\count295
+\c@pq@index@bpts=\count296
+\c@num@cols=\count297
+\c@num@rows=\count298
+\c@current@row=\count299
+\c@cols@done=\count300
+\exam@box=\box51
+\saved@totalleftmargin=\dimen141
+\@sollistdepth=\count301
+\exam@FrameRule=\dimen142
+\exam@FrameSep=\dimen143
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2024/03/11 v1.30 mathematical typesetting tools
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count302
+\calc@Bcount=\count303
+\calc@Adimen=\dimen144
+\calc@Bdimen=\dimen145
+\calc@Askip=\skip75
+\calc@Bskip=\skip76
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count304
+\calc@Cskip=\skip77
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip78
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen146
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen147
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count305
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count306
+\leftroot@=\count307
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count308
+\DOTSCASE@=\count309
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen148
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count310
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count311
+\dotsspace@=\muskip16
+\c@parentequation=\count312
+\dspbrk@lvl=\count313
+\tag@help=\toks24
+\row@=\count314
+\column@=\count315
+\maxfields@=\count316
+\andhelp@=\toks25
+\eqnshift@=\dimen149
+\alignsep@=\dimen150
+\tagshift@=\dimen151
+\tagwidth@=\dimen152
+\totwidth@=\dimen153
+\lineht@=\dimen154
+\@envbody=\toks26
+\multlinegap=\skip79
+\multlinetaggap=\skip80
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+\g_MT_multlinerow_int=\count317
+\l_MT_multwidth_dim=\dimen155
+\origjot=\skip81
+\l_MT_shortvdotswithinadjustabove_dim=\dimen156
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen157
+\l_MT_above_intertext_sep=\dimen158
+\l_MT_below_intertext_sep=\dimen159
+\l_MT_above_shortintertext_sep=\dimen160
+\l_MT_below_shortintertext_sep=\dimen161
+\xmathstrut@box=\box54
+\xmathstrut@dim=\dimen162
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen163
+\pgfutil@tempdimb=\dimen164
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box55
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen167
+\pgf@y=\dimen168
+\pgf@xa=\dimen169
+\pgf@ya=\dimen170
+\pgf@xb=\dimen171
+\pgf@yb=\dimen172
+\pgf@xc=\dimen173
+\pgf@yc=\dimen174
+\pgf@xd=\dimen175
+\pgf@yd=\dimen176
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count318
+\c@pgf@countb=\count319
+\c@pgf@countc=\count320
+\c@pgf@countd=\count321
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count322
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count323
+\pgfsyssoftpath@bigbuffer@items=\count324
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen177
+\pgfmath@count=\count325
+\pgfmath@box=\box56
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count326
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen178
+\pgf@picmaxx=\dimen179
+\pgf@picminy=\dimen180
+\pgf@picmaxy=\dimen181
+\pgf@pathminx=\dimen182
+\pgf@pathmaxx=\dimen183
+\pgf@pathminy=\dimen184
+\pgf@pathmaxy=\dimen185
+\pgf@xx=\dimen186
+\pgf@xy=\dimen187
+\pgf@yx=\dimen188
+\pgf@yy=\dimen189
+\pgf@zx=\dimen190
+\pgf@zy=\dimen191
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen192
+\pgf@path@lasty=\dimen193
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen194
+\pgf@shorten@start@additional=\dimen195
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count327
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen196
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen197
+\pgf@pt@y=\dimen198
+\pgf@pt@temp=\dimen199
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen256
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen257
+\pgf@sys@shading@range@num=\count328
+\pgf@shadingcount=\count329
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box60
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box61
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen258
+\pgf@nodesepend=\dimen259
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tools\verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks38
+\verbatim@line=\toks39
+\verbatim@in@stream=\read3
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count330
+)
+\tcb@titlebox=\box62
+\tcb@upperbox=\box63
+\tcb@lowerbox=\box64
+\tcb@phantombox=\box65
+\c@tcbbreakpart=\count331
+\c@tcblayer=\count332
+\c@tcolorbox@number=\count333
+\l__tcobox_tmpa_box=\box66
+\l__tcobox_tmpa_dim=\dimen260
+\tcb@temp=\box67
+\tcb@temp=\box68
+\tcb@temp=\box69
+\tcb@temp=\box70
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/pgf/utilities\pgffor.sty (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/pgf/math\pgfmath.sty (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen261
+\pgffor@skip=\dimen262
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count334
+\pgfplotmarksize=\dimen263
+)
+\tikz@lastx=\dimen264
+\tikz@lasty=\dimen265
+\tikz@lastxsaved=\dimen266
+\tikz@lastysaved=\dimen267
+\tikz@lastmovetox=\dimen268
+\tikz@lastmovetoy=\dimen269
+\tikzleveldistance=\dimen270
+\tikzsiblingdistance=\dimen271
+\tikz@figbox=\box71
+\tikz@figbox@bg=\box72
+\tikz@tempbox=\box73
+\tikz@tempbox@bg=\box74
+\tikztreelevel=\count335
+\tikznumberofchildren=\count336
+\tikznumberofcurrentchild=\count337
+\tikz@fig@count=\count338
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count339
+\pgfmatrixcurrentcolumn=\count340
+\pgf@matrix@numberofcolumns=\count341
+)
+\tikz@expandcount=\count342
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide\tkz-euclide.sty
+2024/04/19 5.10c tkz-euclide.sty
+Package: tkz-euclide  2024/04/19 5.10c for pure Euclidean Geometry 
+(C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryangles.code.tex
+File: tikzlibraryangles.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen272
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen273
+\pgfarrowlength=\dimen274
+\pgfarrowwidth=\dimen275
+\pgfarrowlinewidth=\dimen276
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@layerbox@background=\box75
+\pgf@layerboxsaved@background=\box76
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen277
+\pgfdecoratedremainingdistance=\dimen278
+\pgfdecoratedinputsegmentcompleteddistance=\dimen279
+\pgfdecoratedinputsegmentremainingdistance=\dimen280
+\pgf@decorate@distancetomove=\dimen281
+\pgf@decorate@repeatstate=\count343
+\pgfdecorationsegmentamplitude=\dimen282
+\pgfdecorationsegmentlength=\dimen283
+)
+\tikz@lib@dec@box=\box77
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.markings.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.markings.code.tex)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.shapes.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.shapes.code.tex)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.text.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.text.code.tex
+\pgf@lib@dec@text@box=\box78
+)
+\tikz@lib@dec@te@box=\box79
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryintersections.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/libraries\pgflibraryintersections.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
+\pgf@intersect@solutions=\count344
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarymath.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfpu.code.tex)
+\tikz@math@for@depth=\count345
+\tikz@math@dimen=\dimen284
+\tikz@math@toks=\toks42
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/libraries/shapes\pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarythrough.code.tex
+File: tikzlibrarythrough.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/l3packages/xfp\xfp.sty (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-01-04 L3 programming layer (loader) 
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count346
+\l__pdf_internal_box=\box80
+))
+Package: xfp 2023-10-10 L3 Floating point unit
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/xpatch\xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+))
+\tkzRadius=\dimen285
+\tkzLength=\dimen286
+\tkz@radi=\dimen287
+\tkz@ax=\dimen288
+\tkz@ay=\dimen289
+\tkz@bx=\dimen290
+\tkz@by=\dimen291
+\tkz@cx=\dimen292
+\tkz@cy=\dimen293
+\tkz@dx=\dimen294
+\tkz@dy=\dimen295
+\tkz@cntmk=\count347
+
+Local configuration file tkz-euclide.cfg found and used
+(C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide\tkz-euclide.cfg
+2024/04/19 5.10c tkz-euclide.cfg
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/tools\tkz-tools-eu-base.tex
+2024/04/19 5.10c tkz-tools-eu-base.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/tools\tkz-tools-eu-utilities.tex
+2024/04/19 5.10c tkz-tools-eu-utilities.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/tools\tkz-tools-eu-BB.tex
+2024/04/19 5.10c tkz-obj-eu-BB.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-grids.tex
+2024/04/19 5.10c tkz-obj-eu-grids.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/libs\tkz-lib-eu-marks.tex
+2024/04/19 5.10c tkz-lib-eu-marks.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/tools\tkz-tools-eu-text.tex
+2024/04/19 5.10c tkz-tools-eu-text.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/libs\tkz-lib-eu-shape.tex
+2024/04/19 5.10c tkz-lib-eu-shape.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-axesmin.tex
+2024/04/19 5.10c tkz-obj-eu-axesmin
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/tools\tkz-tools-eu-colors.tex
+2024/04/19 5.10c tkz-tools-eu-colors
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-points.tex
+2024/04/19 5.10c tkz-obj-eu-points.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/drawings\tkz-draw-eu-points.tex
+2024/04/19 5.10c tkz-draw-eu-points.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-points.tex
+2024/04/19 5.10c tkz-obj-eu-points.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-points-by.tex
+2024/04/19 5.10c tkz-tools-eu-points-by.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/tools\tkz-tools-eu-math.tex
+2024/04/19 5.10c tkz-tools-eu-math.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/tools\tkz-tools-eu-intersections.tex
+2024/04/19 5.10c tkz-tools-eu-intersections.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-points-with.tex
+2024/04/19 5.10c tkz-obj-eu-points-with.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-points-spc.tex
+2024/04/19 5.10c tkz-obj-el-points.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/tools\tkz-tools-eu-angles.tex
+2024/04/19 5.10c tkz-tools-eu-angles.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-circles.tex
+2024/04/19 5.10c tkz-obj-eu-circles.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-circles-by.tex
+2024/04/19 5.10c tkz-obj-eu-circles.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-points-rnd.tex
+2024/04/19 5.10c tkz-obj-eu-points-rnd.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-lines.tex
+2024/04/19 5.10c tkz-obj-eu-lines.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-polygons.tex
+2024/04/19 5.10c tkz-obj-eu-polygons.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/obj\tkz-obj-eu-triangles.tex
+2024/04/19 5.10c tkz-obj-eu-triangles.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/drawings\tkz-draw-eu-lines.tex
+2024/04/19 5.10c tkz-obj-eu-draw-lines.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/drawings\tkz-draw-eu-circles.tex
+2024/04/19 5.10c tkz-obj-eu-draw-circles.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/drawings\tkz-draw-eu-ellipses.tex
+2024/04/19 5.10c tkz-obj-eu-draw-ellipses.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/drawings\tkz-draw-eu-polygons.tex
+2024/04/19 5.10c tkz-obj-eu-polygons.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/drawings\tkz-draw-eu-arcs.tex
+2024/04/19 5.10c tkz-tool-eu-arcs.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/drawings\tkz-draw-eu-angles.tex
+2024/04/19 5.10c tkz-tool-eu-angles.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/drawings\tkz-draw-eu-sectors.tex
+2024/04/19 5.10c tkz-obj-eu-sectors.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/drawings\tkz-draw-eu-compass.tex
+2024/04/19 5.10c tkz-obj-eu-compass.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/drawings\tkz-draw-eu-show.tex
+2024/04/19 5.10c tkz-obj-eu-show.tex
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tkz-euclide/drawings\tkz-draw-eu-protractor.tex
+2024/04/19 5.10c tkz-obj-eu-protractor.tex
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/pgfplots\pgfplots.sty (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplots.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks43
+\t@pgfplots@tokb=\toks44
+\t@pgfplots@tokc=\toks45
+\pgfplots@tmpa=\dimen296
+\c@pgfplots@coordindex=\count348
+\c@pgfplots@scanlineindex=\count349
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks46
+\t@pgf@tokb=\toks47
+\t@pgf@tokc=\toks48
+(C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count350
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count351
+\t@pgfplotstable@a=\toks49
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count352
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count353
+\pgfplots@xmin@reg=\dimen297
+\pgfplots@xmax@reg=\dimen298
+\pgfplots@ymin@reg=\dimen299
+\pgfplots@ymax@reg=\dimen300
+\pgfplots@zmin@reg=\dimen301
+\pgfplots@zmax@reg=\dimen302
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/mdframed\mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/zref\zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count354
+Package zref Info: New property: abspage on input line 67.
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/needspace\needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip82
+\c@mdf@globalstyle@cnt=\count355
+\mdf@skipabove@length=\skip83
+\mdf@skipbelow@length=\skip84
+\mdf@leftmargin@length=\skip85
+\mdf@rightmargin@length=\skip86
+\mdf@innerleftmargin@length=\skip87
+\mdf@innerrightmargin@length=\skip88
+\mdf@innertopmargin@length=\skip89
+\mdf@innerbottommargin@length=\skip90
+\mdf@splittopskip@length=\skip91
+\mdf@splitbottomskip@length=\skip92
+\mdf@outermargin@length=\skip93
+\mdf@innermargin@length=\skip94
+\mdf@linewidth@length=\skip95
+\mdf@innerlinewidth@length=\skip96
+\mdf@middlelinewidth@length=\skip97
+\mdf@outerlinewidth@length=\skip98
+\mdf@roundcorner@length=\skip99
+\mdf@footenotedistance@length=\skip100
+\mdf@userdefinedwidth@length=\skip101
+\mdf@needspace@length=\skip102
+\mdf@frametitleaboveskip@length=\skip103
+\mdf@frametitlebelowskip@length=\skip104
+\mdf@frametitlerulewidth@length=\skip105
+\mdf@frametitleleftmargin@length=\skip106
+\mdf@frametitlerightmargin@length=\skip107
+\mdf@shadowsize@length=\skip108
+\mdf@extratopheight@length=\skip109
+\mdf@subtitleabovelinewidth@length=\skip110
+\mdf@subtitlebelowlinewidth@length=\skip111
+\mdf@subtitleaboveskip@length=\skip112
+\mdf@subtitlebelowskip@length=\skip113
+\mdf@subtitleinneraboveskip@length=\skip114
+\mdf@subtitleinnerbelowskip@length=\skip115
+\mdf@subsubtitleabovelinewidth@length=\skip116
+\mdf@subsubtitlebelowlinewidth@length=\skip117
+\mdf@subsubtitleaboveskip@length=\skip118
+\mdf@subsubtitlebelowskip@length=\skip119
+\mdf@subsubtitleinneraboveskip@length=\skip120
+\mdf@subsubtitleinnerbelowskip@length=\skip121
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/mdframed\md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box81
+\mdf@footnotebox=\box82
+\mdf@splitbox@one=\box83
+\mdf@splitbox@two=\box84
+\mdf@splitbox@save=\box85
+\mdfsplitboxwidth=\skip122
+\mdfsplitboxtotalwidth=\skip123
+\mdfsplitboxheight=\skip124
+\mdfsplitboxdepth=\skip125
+\mdfsplitboxtotalheight=\skip126
+\mdfframetitleboxwidth=\skip127
+\mdfframetitleboxtotalwidth=\skip128
+\mdfframetitleboxheight=\skip129
+\mdfframetitleboxdepth=\skip130
+\mdfframetitleboxtotalheight=\skip131
+\mdffootnoteboxwidth=\skip132
+\mdffootnoteboxtotalwidth=\skip133
+\mdffootnoteboxheight=\skip134
+\mdffootnoteboxdepth=\skip135
+\mdffootnoteboxtotalheight=\skip136
+\mdftotallinewidth=\skip137
+\mdfboundingboxwidth=\skip138
+\mdfboundingboxtotalwidth=\skip139
+\mdfboundingboxheight=\skip140
+\mdfboundingboxdepth=\skip141
+\mdfboundingboxtotalheight=\skip142
+\mdf@freevspace@length=\skip143
+\mdf@horizontalwidthofbox@length=\skip144
+\mdf@verticalmarginwhole@length=\skip145
+\mdf@horizontalspaceofbox=\skip146
+\mdfsubtitleheight=\skip147
+\mdfsubsubtitleheight=\skip148
+\c@mdfcountframes=\count356
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count357
+\c@mdf@env@i=\count358
+\c@mdf@env@ii=\count359
+\c@mdf@zref@counter=\count360
+Package zref Info: New property: mdf@pagevalue on input line 895.
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip149
+\cftbeforetoctitleskip=\skip150
+\cftaftertoctitleskip=\skip151
+\cftbeforepartskip=\skip152
+\cftpartnumwidth=\skip153
+\cftpartindent=\skip154
+\cftbeforesecskip=\skip155
+\cftsecindent=\skip156
+\cftsecnumwidth=\skip157
+\cftbeforesubsecskip=\skip158
+\cftsubsecindent=\skip159
+\cftsubsecnumwidth=\skip160
+\cftbeforesubsubsecskip=\skip161
+\cftsubsubsecindent=\skip162
+\cftsubsubsecnumwidth=\skip163
+\cftbeforeparaskip=\skip164
+\cftparaindent=\skip165
+\cftparanumwidth=\skip166
+\cftbeforesubparaskip=\skip167
+\cftsubparaindent=\skip168
+\cftsubparanumwidth=\skip169
+\cftbeforeloftitleskip=\skip170
+\cftafterloftitleskip=\skip171
+\cftbeforefigskip=\skip172
+\cftfigindent=\skip173
+\cftfignumwidth=\skip174
+\c@lofdepth=\count361
+\c@lotdepth=\count362
+\cftbeforelottitleskip=\skip175
+\cftafterlottitleskip=\skip176
+\cftbeforetabskip=\skip177
+\cfttabindent=\skip178
+\cfttabnumwidth=\skip179
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tcolorbox\tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.2.0'
+(C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tikzfill\tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tikzfill\tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tikzfill\tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box86
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.2.0'
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen303
+\ar@mcellbox=\box87
+\extrarowheight=\dimen304
+\NC@list=\toks50
+\extratabsurround=\skip180
+\backup@length=\skip181
+\ar@cellbox=\box88
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip182
+\LTright=\skip183
+\LTpre=\skip184
+\LTpost=\skip185
+\LTchunksize=\count363
+\LTcapwidth=\dimen305
+\LT@head=\box89
+\LT@firsthead=\box90
+\LT@foot=\box91
+\LT@lastfoot=\box92
+\LT@gbox=\box93
+\LT@cols=\count364
+\LT@rows=\count365
+\c@LT@tables=\count366
+\c@LT@chunks=\count367
+\LT@p@ftn=\toks51
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tocbibind\tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has section divisions on input line 50.
+
+
+Package tocbibind Note: Using section or other style headings.
+
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip186
+\enit@outerparindent=\dimen306
+\enit@toks=\toks52
+\enit@inbox=\box94
+\enit@count@id=\count368
+\enitdp@description=\count369
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/xkeyval\xkeyval.tex (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks53
+\XKV@tempa@toks=\toks54
+)
+\XKV@depth=\count370
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box95
+)
+\tc@llx=\dimen307
+\tc@lly=\dimen308
+\tc@urx=\dimen309
+\tc@ury=\dimen310
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen311
+\adjbox@Height=\dimen312
+\adjbox@Depth=\dimen313
+\adjbox@Totalheight=\dimen314
+\adjbox@pwidth=\dimen315
+\adjbox@pheight=\dimen316
+\adjbox@pdepth=\dimen317
+\adjbox@ptotalheight=\dimen318
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count371
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box96
+\sift@deathcycles=\count372
+\@vwid@loff=\dimen319
+\@vwid@roff=\dimen320
+)) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/qrcode\qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
+\c@qr@i=\count373
+\c@qr@j=\count374
+\qr@a=\count375
+\qr@b=\count376
+\qr@c=\count377
+\qr@for@depth=\count378
+\qr@for@maxdepth=\count379
+\qr@for@start=\count380
+\qr@for@end=\count381
+\qr@for@step=\count382
+\qr@newforcount=\count383
+\qr@newforcount=\count384
+\qr@desiredheight=\skip187
+\qr@modulesize=\skip188
+\qr@minipagewidth=\skip189
+\c@maski=\count385
+\c@maskj=\count386
+\c@totalones=\count387
+\c@penaltyi=\count388
+\c@penaltyii=\count389
+\c@penaltyiii=\count390
+\c@penaltyiv=\count391
+\c@qr@hexchars=\count392
+\qr@newforcount=\count393
+\c@qr@divisionsremaining=\count394
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count395
+)
+\@linkdim=\dimen321
+\Hy@linkcounter=\count396
+\Hy@pagecounter=\count397
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count398
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count399
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen322
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count400
+\Field@Width=\dimen323
+\Fld@charsize=\dimen324
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count401
+\c@Item=\count402
+\c@Hfootnote=\count403
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\HyAnn@Count=\count404
+\Fld@listcount=\count405
+\c@bookmark@seq@number=\count406
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip190
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/tools\multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count407
+\mult@box=\box97
+\multicol@leftmargin=\dimen325
+\c@unbalance=\count408
+\c@collectmore=\count409
+\doublecol@number=\count410
+\multicoltolerance=\count411
+\multicolpretolerance=\count412
+\full@width=\dimen326
+\page@free=\dimen327
+\premulticols=\dimen328
+\postmulticols=\dimen329
+\multicolsep=\skip191
+\multicolbaselineskip=\skip192
+\partial@page=\box98
+\last@line=\box99
+\mc@boxedresult=\box100
+\maxbalancingoverflow=\dimen330
+\mult@rightbox=\box101
+\mult@grightbox=\box102
+\mult@firstbox=\box103
+\mult@gfirstbox=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\@tempa=\box131
+\@tempa=\box132
+\@tempa=\box133
+\@tempa=\box134
+\@tempa=\box135
+\@tempa=\box136
+\@tempa=\box137
+\@tempa=\box138
+\@tempa=\box139
+\@tempa=\box140
+\c@minrows=\count413
+\c@columnbadness=\count414
+\c@finalcolumnbadness=\count415
+\last@try=\dimen331
+\multicolovershoot=\dimen332
+\multicolundershoot=\dimen333
+\mult@nat@firstbox=\box141
+\colbreak@box=\box142
+\mc@col@check@num=\count416
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip193
+\RaggedLeftLeftskip=\skip194
+\RaggedRightLeftskip=\skip195
+\CenteringRightskip=\skip196
+\RaggedLeftRightskip=\skip197
+\RaggedRightRightskip=\skip198
+\CenteringParfillskip=\skip199
+\RaggedLeftParfillskip=\skip256
+\RaggedRightParfillskip=\skip257
+\JustifyingParfillskip=\skip258
+\CenteringParindent=\skip259
+\RaggedLeftParindent=\skip260
+\RaggedRightParindent=\skip261
+\JustifyingParindent=\skip262
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 40.
+
+
+Package hyperref Warning: Unexpected value `subsection' of
+(hyperref)                option `linktoc' instead of `none',
+(hyperref)                `section', `page' or `all' on input line 40.
+
+(Main.aux <Reading QR code for "https://drive.google.com/drive/folders/1Xas6NEKfgMRz3RCLSFXf2T-hdoFQ8gFO?usp=sharing" at level 5-M from aux file.>
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@2' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `part@2@1' multiply defined.
+
+
+LaTeX Warning: Label `part@2@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `part@3@1' multiply defined.
+
+
+LaTeX Warning: Label `part@3@2' multiply defined.
+
+
+LaTeX Warning: Label `part@3@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `part@4@1' multiply defined.
+
+
+LaTeX Warning: Label `part@4@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `part@2@1' multiply defined.
+
+
+LaTeX Warning: Label `part@2@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `part@4@1' multiply defined.
+
+
+LaTeX Warning: Label `part@4@2' multiply defined.
+
+
+LaTeX Warning: Label `part@4@3' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `part@5@1' multiply defined.
+
+
+LaTeX Warning: Label `part@5@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@2' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `part@2@1' multiply defined.
+
+
+LaTeX Warning: Label `part@2@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `part@5@1' multiply defined.
+
+
+LaTeX Warning: Label `part@5@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@2' multiply defined.
+
+
+LaTeX Warning: Label `part@1@3' multiply defined.
+
+
+LaTeX Warning: Label `part@1@4' multiply defined.
+
+
+LaTeX Warning: Label `part@1@5' multiply defined.
+
+
+LaTeX Warning: Label `part@1@6' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `part@2@1' multiply defined.
+
+
+LaTeX Warning: Label `part@2@2' multiply defined.
+
+
+LaTeX Warning: Label `part@2@3' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `part@3@1' multiply defined.
+
+
+LaTeX Warning: Label `part@3@2' multiply defined.
+
+
+LaTeX Warning: Label `part@3@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@9' multiply defined.
+
+
+LaTeX Warning: Label `question@10' multiply defined.
+
+
+LaTeX Warning: Label `question@11' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@9' multiply defined.
+
+
+LaTeX Warning: Label `question@10' multiply defined.
+
+
+LaTeX Warning: Label `question@11' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@9' multiply defined.
+
+
+LaTeX Warning: Label `question@10' multiply defined.
+
+
+LaTeX Warning: Label `question@11' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+<Reading QR code for "https://drive.google.com/file/d/1GqxwEAv6EcMuU0GQZDaL8cGVEBIjYr5e/view?usp=sharing" at level 5-M from aux file.>
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `part@4@1' multiply defined.
+
+
+LaTeX Warning: Label `part@4@2' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+<Reading QR code for "https://drive.google.com/file/d/1NBu7JxlZUY0V1fztLIygu6aRVqlerBnX/view?usp=sharing" at level 5-M from aux file.>
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@2' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+<Reading QR code for "https://drive.google.com/file/d/1zI60e-JH81aCoSf6-0VDKDcLC84Jlf10/view?usp=sharing" at level 5-M from aux file.>
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `part@2@1' multiply defined.
+
+
+LaTeX Warning: Label `part@2@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@2' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `part@3@1' multiply defined.
+
+
+LaTeX Warning: Label `part@3@2' multiply defined.
+
+
+LaTeX Warning: Label `part@3@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `part@5@1' multiply defined.
+
+
+LaTeX Warning: Label `part@5@2' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `part@6@1' multiply defined.
+
+
+LaTeX Warning: Label `part@6@2' multiply defined.
+
+
+LaTeX Warning: Label `part@6@1' multiply defined.
+
+
+LaTeX Warning: Label `part@6@2' multiply defined.
+
+
+LaTeX Warning: Label `part@6@1' multiply defined.
+
+
+LaTeX Warning: Label `part@6@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `part@4@1' multiply defined.
+
+
+LaTeX Warning: Label `part@4@2' multiply defined.
+
+
+LaTeX Warning: Label `part@4@3' multiply defined.
+
+
+LaTeX Warning: Label `part@4@4' multiply defined.
+
+
+LaTeX Warning: Label `part@4@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `part@4@1' multiply defined.
+
+
+LaTeX Warning: Label `part@4@2' multiply defined.
+
+
+LaTeX Warning: Label `part@4@3' multiply defined.
+
+
+LaTeX Warning: Label `part@4@4' multiply defined.
+
+
+LaTeX Warning: Label `part@4@5' multiply defined.
+
+
+LaTeX Warning: Label `part@4@6' multiply defined.
+
+
+LaTeX Warning: Label `part@4@1' multiply defined.
+
+
+LaTeX Warning: Label `part@4@2' multiply defined.
+
+
+LaTeX Warning: Label `part@4@3' multiply defined.
+
+
+LaTeX Warning: Label `part@4@1' multiply defined.
+
+
+LaTeX Warning: Label `part@4@2' multiply defined.
+
+
+LaTeX Warning: Label `part@4@1' multiply defined.
+
+
+LaTeX Warning: Label `part@4@2' multiply defined.
+
+
+LaTeX Warning: Label `part@4@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `part@3@1' multiply defined.
+
+
+LaTeX Warning: Label `part@3@2' multiply defined.
+
+
+LaTeX Warning: Label `part@3@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@2' multiply defined.
+
+
+LaTeX Warning: Label `part@1@3' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `part@2@1' multiply defined.
+
+
+LaTeX Warning: Label `part@2@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `part@3@1' multiply defined.
+
+
+LaTeX Warning: Label `part@3@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@2' multiply defined.
+
+
+LaTeX Warning: Label `part@1@3' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `part@2@1' multiply defined.
+
+
+LaTeX Warning: Label `part@2@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@2' multiply defined.
+
+
+LaTeX Warning: Label `part@1@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@2' multiply defined.
+
+
+LaTeX Warning: Label `part@1@3' multiply defined.
+
+
+LaTeX Warning: Label `part@1@4' multiply defined.
+
+
+LaTeX Warning: Label `part@1@5' multiply defined.
+
+
+LaTeX Warning: Label `part@1@6' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `part@5@1' multiply defined.
+
+
+LaTeX Warning: Label `part@5@2' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `part@2@1' multiply defined.
+
+
+LaTeX Warning: Label `part@2@2' multiply defined.
+
+
+LaTeX Warning: Label `part@2@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `part@4@1' multiply defined.
+
+
+LaTeX Warning: Label `part@4@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@1' multiply defined.
+
+
+LaTeX Warning: Label `part@1@2' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+<Reading QR code for "http://people.math.binghamton.edu/alex/EXAMS_PUBLIC/Convergence_Handout.pdf" at level 5-M from aux file.>
+)
+\openout1 = `Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count417
+\scratchdimen=\dimen334
+\scratchbox=\box143
+\nofMPsegments=\count418
+\nofMParguments=\count419
+\everyMPshowfont=\toks55
+\MPscratchCnt=\count420
+\MPscratchDim=\dimen335
+\MPnumerator=\count421
+\makeMPintoPDFobject=\count422
+\everyMPtoPDFconversion=\toks56
+) (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+Package hyperref Info: Link coloring ON on input line 106.
+(Main.out) (Main.out)
+\@outlinefile=\write4
+\openout4 = `Main.out'.
+
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/sc' in size <45> not available
+(Font)              size <24.88> substituted on input line 113.
+
+[1
+
+{C:/Users/scarey/scoop/apps/miktex/current/texmfs/data/fonts/map/pdftex/pdftex.map}] 
+
+<QR code requested for "https://drive.google.com/drive/folders/1Xas6NEKfgMRz3RCLSFXf2T-hdoFQ8gFO?usp=sharing" in version 0-M.>
+<Copying the QR code for "https://drive.google.com/drive/folders/1Xas6NEKfgMRz3RCLSFXf2T-hdoFQ8gFO?usp=sharing" in version 5-M as previously calculated.>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 132.
+(C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 132.
+ (C:\Users\scarey\scoop\apps\miktex\current\texmfs\install\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.147 \newpage
+               [1] (Main.toc [2] [3])
+\tf@toc=\write5
+\openout5 = `Main.toc'.
+
+ [4]
+Overfull \hbox (0.94214pt too wide) in alignment at lines 163--205
+ [] [] [] [] [] 
+ []
+
+[5] [6]
+Overfull \hbox (19.01741pt too wide) detected at line 236
+\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) = []
+ []
+
+
+Overfull \hbox (9.12189pt too wide) in paragraph at lines 227--248
+[]$  $[]$ 
+ []
+
+[7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 296--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
+
+[9] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
+
+ []
+
+[12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 506--509
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--538
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 541--545
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--545
+
+ []
+
+[15] [16] [17] [18] [19] [20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 748--752
+
+ []
+
+[22] [23] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 834--835
+
+ []
+
+[25] [26] [27]
+Underfull \hbox (badness 10000) in paragraph at lines 944--952
+
+ []
+
+\openout3 = `Main.pgf-plot.gnuplot'.
+
+runsystem(gnuplot Main.pgf-plot.gnuplot)...disabled (restricted).
+
+
+Package pgf Warning: Plot data file `Main.pgf-plot.table' not found. on input line 982.
+
+[28] [29] [30] [31] [32] [33] [34]
+Underfull \hbox (badness 10000) in paragraph at lines 1175--1178
+
+ []
+
+Missing character: There is no ; in font nullfont!
+[35]
+Underfull \hbox (badness 2173) in paragraph at lines 1257--1258
+[]\OT1/cmr/m/n/12 At a \OT1/cmr/bx/n/12 cor-ner\OT1/cmr/m/n/12 , where the one-sided
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1257--1258
+
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 1304--1305
+[]\OT1/cmr/m/n/12 At a \OT1/cmr/bx/n/12 ver-ti-cal tan-gent\OT1/cmr/m/n/12 , where the
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1371--1375
+
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 1497--1500
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1497--1500
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1497--1500
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1501--1506
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1501--1506
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1508--1509
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1511--1512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1511--1512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1515--1516
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1515--1516
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1518
+
+ []
+
+
+Overfull \hbox (55.50125pt too wide) in paragraph at lines 1536--1537
+[][] 
+ []
+
+
+Overfull \hbox (41.38142pt too wide) in paragraph at lines 1547--1548
+[]\OT1/cmr/m/n/12 Naturally the ques-tion be-comes: \OT1/cmr/bx/n/12 How can we find the ex-treme val-ues? $[]$\OT1/cmr/m/n/12 !!!! 
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 1565--1566
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1569--1572
+
+ []
+
+[39] [40]
+Underfull \hbox (badness 10000) in paragraph at lines 1632--1633
+
+ []
+
+[41] [42]
+Overfull \hbox (55.50125pt too wide) in paragraph at lines 1767--1768
+[][] 
+ []
+
+
+Overfull \hbox (55.50125pt too wide) in paragraph at lines 1829--1830
+[][] 
+ []
+
+[43]
+Overfull \hbox (55.50125pt too wide) in paragraph at lines 1892--1893
+[][] 
+ []
+
+
+Overfull \hbox (55.50125pt too wide) in paragraph at lines 1954--1955
+[][] 
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 1976--1979
+
+ []
+
+[45] [46] [47] [48] [49] [50] [51] [52] 
+
+<QR code requested for "https://drive.google.com/file/d/1GqxwEAv6EcMuU0GQZDaL8cGVEBIjYr5e/view?usp=sharing" in version 0-M.>
+<Copying the QR code for "https://drive.google.com/file/d/1GqxwEAv6EcMuU0GQZDaL8cGVEBIjYr5e/view?usp=sharing" in version 5-M as previously calculated.>
+[53] [54] [55] [56] [57] [58] [59] [60] [61] [62]
+Underfull \hbox (badness 10000) in paragraph at lines 2451--2455
+
+ []
+
+[63]
+Overfull \hbox (11.61777pt too wide) in paragraph at lines 2494--2495
+ [] 
+ []
+
+
+Overfull \hbox (11.61777pt too wide) in paragraph at lines 2508--2509
+ [] 
+ []
+
+
+Overfull \hbox (11.61777pt too wide) in paragraph at lines 2522--2523
+ [] 
+ []
+
+[64] [65] [66]
+Underfull \hbox (badness 10000) in paragraph at lines 2626--2627
+
+ []
+
+
+Overfull \hbox (1.15631pt too wide) in paragraph at lines 2632--2632
+ \OT1/cmr/m/n/12 Time 
+ []
+
+
+Overfull \hbox (1.80492pt too wide) in paragraph at lines 2632--2632
+ \OT1/cmr/m/n/12 Noon 
+ []
+
+
+Overfull \hbox (3.44101pt too wide) in paragraph at lines 2633--2633
+ \OT1/cmr/m/n/12 Temp 
+ []
+
+
+Overfull \hbox (8.42787pt too wide) in paragraph at lines 2642--2643
+\OT1/cmr/m/n/12 Basically, all the rect-an-gle ap-prox-i-ma-tions \OT1/cmr/m/it/12 are \OT1/cmr/m/n/12 Rie-mann ap-prox-i-ma-tions (or "Rie-mann Sums").
+ []
+
+[67] [68] 
+
+<QR code requested for "https://drive.google.com/file/d/1NBu7JxlZUY0V1fztLIygu6aRVqlerBnX/view?usp=sharing" in version 0-M.>
+<Copying the QR code for "https://drive.google.com/file/d/1NBu7JxlZUY0V1fztLIygu6aRVqlerBnX/view?usp=sharing" in version 5-M as previously calculated.>
+[69] [70] [71]
+Underfull \hbox (badness 10000) in paragraph at lines 2789--2792
+
+ []
+
+[72] [73] [74] [75] [76] [77] 
+
+<QR code requested for "https://drive.google.com/file/d/1zI60e-JH81aCoSf6-0VDKDcLC84Jlf10/view?usp=sharing" in version 0-M.>
+<Copying the QR code for "https://drive.google.com/file/d/1zI60e-JH81aCoSf6-0VDKDcLC84Jlf10/view?usp=sharing" in version 5-M as previously calculated.>
+[78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88]
+Underfull \hbox (badness 10000) in paragraph at lines 3275--3278
+
+ []
+
+[89] [90] [91] [92] [93]
+Underfull \hbox (badness 10000) in paragraph at lines 3399--3402
+
+ []
+
+[94] [95]
+Underfull \hbox (badness 10000) in paragraph at lines 3447--3450
+
+ []
+
+[96] [97]
+Underfull \hbox (badness 10000) in paragraph at lines 3501--3505
+
+ []
+
+[98] [99] [100] [101] [102] [103] [104] [105]
+Underfull \hbox (badness 10000) in paragraph at lines 3650--3659
+
+ []
+
+
+Overfull \hbox (19.00485pt too wide) in paragraph at lines 3650--3659
+\OT1/cmr/m/n/12 Example: $ [] $ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3650--3659
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3650--3659
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3650--3659
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3662--3663
+
+ []
+
+[106]
+Underfull \hbox (badness 10000) in paragraph at lines 3709--3712
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3713--3716
+
+ []
+
+[107] [108] [109] [110]
+Underfull \hbox (badness 10000) in paragraph at lines 3876--3880
+
+ []
+
+[111]
+Underfull \hbox (badness 10000) in paragraph at lines 3937--3943
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3937--3943
+
+ []
+
+[112] [113] [114]
+Underfull \hbox (badness 10000) in paragraph at lines 4051--4053
+
+ []
+
+[115] [116]
+Underfull \hbox (badness 10000) in paragraph at lines 4109--4112
+
+ []
+
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 4159--4162
+
+ []
+
+[118]
+Underfull \hbox (badness 10000) in paragraph at lines 4175--4176
+
+ []
+
+[119] [120] [121] [122] [123]
+Underfull \hbox (badness 10000) in paragraph at lines 4339--4342
+
+ []
+
+[124] [125]
+Underfull \hbox (badness 10000) in paragraph at lines 4408--4410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4408--4410
+
+ []
+
+[126]
+Underfull \hbox (badness 10000) in paragraph at lines 4430--4431
+
+ []
+
+[127]
+Overfull \hbox (24.3423pt too wide) in paragraph at lines 4514--4515
+[][] 
+ []
+
+
+Overfull \hbox (42.63556pt too wide) in paragraph at lines 4530--4531
+[][] 
+ []
+
+
+Overfull \hbox (22.82748pt too wide) in paragraph at lines 4546--4547
+[][] 
+ []
+
+
+Overfull \hbox (22.82748pt too wide) in paragraph at lines 4562--4563
+[][] 
+ []
+
+[128] [129]
+Underfull \hbox (badness 10000) in paragraph at lines 4618--4622
+
+ []
+
+[130] [131] [132]
+Underfull \hbox (badness 10000) in paragraph at lines 4707--4710
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4710--4712
+
+ []
+
+[133] [134]
+Underfull \hbox (badness 10000) in paragraph at lines 4762--4765
+
+ []
+
+[135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146]
+Underfull \hbox (badness 10000) in paragraph at lines 5123--5124
+
+ []
+
+
+Overfull \hbox (53.09753pt too wide) in paragraph at lines 5172--5173
+[][] 
+ []
+
+[147]
+Underfull \hbox (badness 10000) in paragraph at lines 5235--5269
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5272--5306
+
+ []
+
+[148] [149] [150] [151] [152] [153] [154] [155] 
+
+<QR code requested for "http://people.math.binghamton.edu/alex/EXAMS_PUBLIC/Convergence_Handout.pdf" in version 0-M.>
+<Copying the QR code for "http://people.math.binghamton.edu/alex/EXAMS_PUBLIC/Convergence_Handout.pdf" in version 5-M as previously calculated.>
+
+Underfull \hbox (badness 10000) in paragraph at lines 5564--5564
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5564--5564
+
+ []
+
+[156]
+This exam contains 401 questions with 139 parts, 0 subparts, and 0 subsubparts.
+This exam has a total of 0 points.
+This exam has a total of 0 bonus points.
+(Main.aux <Reading QR code for "https://drive.google.com/drive/folders/1Xas6NEKfgMRz3RCLSFXf2T-hdoFQ8gFO?usp=sharing" at level 5-M from aux file.>
+<Reading QR code for "https://drive.google.com/file/d/1GqxwEAv6EcMuU0GQZDaL8cGVEBIjYr5e/view?usp=sharing" at level 5-M from aux file.>
+<Reading QR code for "https://drive.google.com/file/d/1NBu7JxlZUY0V1fztLIygu6aRVqlerBnX/view?usp=sharing" at level 5-M from aux file.>
+<Reading QR code for "https://drive.google.com/file/d/1zI60e-JH81aCoSf6-0VDKDcLC84Jlf10/view?usp=sharing" at level 5-M from aux file.>
+<Reading QR code for "http://people.math.binghamton.edu/alex/EXAMS_PUBLIC/Convergence_Handout.pdf" at level 5-M from aux file.>
+)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2020/03/25>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 20.12pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `Main.out' has not changed.
+(rerunfilecheck)             Checksum: F443C71C6071D5DC2EE0238BA364471D;15437.
+ ) 
+Here is how much of TeX's memory you used:
+ 49344 strings out of 474486
+ 1142007 string characters out of 5738073
+ 2002542 words of memory out of 5000000
+ 69904 multiletter control sequences out of 15000+600000
+ 571248 words of font info for 83 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 101i,12n,389p,1663b,2133s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\scarey\scoop\apps\miktex\current\texmfs/data\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/scarey/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Main.pdf (157 pages, 809030 bytes).
+PDF statistics:
+ 2079 PDF objects out of 2487 (max. 8388607)
+ 931 named destinations out of 1000 (max. 500000)
+ 677 words of extra memory for PDF output out of 10000 (max. 10000000)
+

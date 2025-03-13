@@ -1,0 +1,301 @@
+\documentclass[addpoints]{exam}
+%%%%%%%%%%%%%%%%%% PACKAGES %%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{tcolorbox}
+\usepackage{tikz,tkz-euclide,tikz-3dplot}
+%%%%%%%%%%%%%%%%%%%%%% MARGINS%% %%%%%%%%%%%%%%%%%%%
+\extrawidth{.5in}
+\extraheadheight{-.25in}
+\extrafootheight{-.25in}
+%%%%%%%%%%%%%%%%%% ANSWERS AND POINTS %%%%%%%%%%%%%%
+%\printanswers
+\pointsinrightmargin
+\bracketedpoints
+%%%%%%%%%%%%%%%%%% HEADER AND FOOTER %%%%%%%%%%%%%%%
+\pagestyle{headandfoot}
+\firstpageheadrule
+\runningheadrule
+\firstpageheader{\S4.A.1 Sequences and Series}{}{AP Precalc\\Mr. Carey}
+\runningheader{\S4.A.1 Sequences and Series}{}{Mr. Carey}
+\firstpagefooter{}{}{}
+\runningfooter{ }{\thepage}{ }
+%%%%%%%%%%%%%%%%%%%%%% NOTES %%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%% DOCUMENT CONTENTS %%%%%%%%%%%%%%%
+\begin{document}
+\section*{Sequences}\label{sec:sequences1}
+\begin{tcolorbox}[title=Definition: \textit{Sequence vs Series},title filled,colframe=black,sharpish corners,width=\linewidth]
+Simply put as possible, a \textbf{sequence} is an ordered list of numbers. A \textbf{series} is the sum of the terms of a sequence.\\
+
+
+For example, the list of numbers $1, 3, 5, 7, 9, \ldots$ is a sequence. The series would be the sum $1+3+5+7+9+\ldots$.
+
+\end{tcolorbox}
+
+\begin{tcolorbox}[title=Definition: \textit{Arithmetic Sequence},title filled,colframe=black,sharpish corners,width=\linewidth]
+
+An \textbf{arithmetic sequence} is a sequence of numbers in which the difference of any two successive members is a constant called the \textbf{common difference}, denoted $d$. The formula for the $n$th term of an arithmetic sequence is given by
+\[\textbf{Explicit:  }a_n = a_1 + (n-1)d\hspace{1.2in}\textbf{Recursive: }a_n=a_{n-1}+d\]
+where $a_n$ is the $n$th term, $a_1$ is the first term, and $d$ is the common difference.
+
+\end{tcolorbox}
+
+\subsection*{Examples}\label{subsec:examples2}
+
+\begin{questions}
+    \question Given the following arithmetic sequence: $-3, 1, 5, 9, 13, \ldots$
+    \begin{parts}
+        \part Find $a_1$.
+        \begin{solution}
+            The first term is $a_1=-3$.
+        \end{solution}
+        \part Find the common difference.
+        \begin{solution}
+            The common difference is $d=1-(-3)=4$.
+        \end{solution}
+        \part Find the 10th term.
+        \begin{solution}
+            The 81st term is $a_{10}=-3+(10-1)4=37$.
+        \end{solution}
+    \end{parts}
+
+    \vspace{\stretch{1}}
+
+    \question Given the following arithmetic sequence: $6,1,-4,-9,\ldots$.
+    \begin{parts}
+        \part Find the $a_{10}$.
+        \begin{solution}
+            The 10th term is $a_{10}=6+(10-1)(-5)=-44$.
+        \end{solution}
+        \part Find the 100th term.
+        \begin{solution}
+            The 100th term is $a_{100}=6+(100-1)(-5)=-494$.
+        \end{solution}
+    \end{parts}
+
+    \vspace{\stretch{1}}     
+
+
+\end{questions}
+
+\begin{tcolorbox}[title=Definition: \textit{Geometric Sequence},title filled,colframe=black,sharpish corners,width=\linewidth]
+
+A \textbf{geometric sequence} is a sequence of numbers in which the ratio of any two successive terms is a constant called the \textbf{common ratio}, denoted $r$. The formula for the $n$th term of a geometric sequence is given by
+\[\textbf{Explicit:  }a_n = a_1 \cdot r^{n-1}\hspace{1.2in}\textbf{Recursive: }a_n=a_{n-1}\cdot r\]
+    
+\end{tcolorbox}
+\subsection*{Example}\label{subsec:example3}
+\begin{questions}
+    \question Given the following geometric sequence: $2, 6, 18, 54, \ldots$
+    \begin{parts}
+        \part Find $a_1$.
+        \begin{solution}
+            The first term is $a_1=2$.
+        \end{solution}
+        \part Find the common ratio.
+        \begin{solution}
+            The common ratio is $r=6/2=3$.
+        \end{solution}
+        \part Find the 21st term.
+        \begin{solution}
+            The 21st term is $a_{21}=2\cdot 3^{20}=3,486,784$.
+        \end{solution}
+    \end{parts}
+
+    \vspace{\stretch{1}}
+
+\end{questions}
+
+\newpage
+
+\subsection*{Examining Sequences}\label{subsec:examining_sequences1}
+For the following questions, consider the sequence \[-5,-\frac{9}{2},-4,-\frac{7}{2},-3,\ldots\]
+\begin{questions}
+    \question Is the sequence arithmetic, geometric, or neither? Explain.
+    
+    \vspace{\stretch{1}}
+
+    \question Find two formulas for the $n$th term of the sequence.
+
+    \vspace{\stretch{1}}
+
+    \question Find the 8th term of the sequence.
+
+    \vspace{\stretch{1}}
+
+
+\end{questions}
+
+\noindent Now consider the sequence \[-\frac{2}{3},\frac{4}{9},-\frac{8}{27},\frac{16}{81},\ldots\]
+\begin{questions}
+    \question Is the sequence arithmetic, geometric, or neither? Explain.
+    
+    \vspace{\stretch{1}}
+
+    \question Find two formulas for the $n$th term of the sequence.
+
+    \vspace{\stretch{1}}
+
+    \question Find the 12th term of the sequence.
+
+    \vspace{\stretch{1}}
+
+\end{questions}
+
+\newpage
+
+\section*{Series}
+
+\begin{tcolorbox}[title=Recall: \textit{Summation Notation},title filled,colframe=black,sharpish corners,width=\linewidth]
+
+Summation notation is a shorthand way to write the sum of a series. The sum of the first $n$ terms of a sequence is denoted by
+\[S_n=a_1+a_2+\cdots+a_n=\sum_{i=1}^n a_i\]
+where $a_i$ is the $i$th term of the sequence.    
+\end{tcolorbox}
+
+\subsection*{Examples}
+
+\begin{questions}
+    \begin{minipage}[t]{.45\linewidth}
+        \question Expand the sum $\displaystyle\sum_{i=3}^6 (i^2-1)$.
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{.45\linewidth}
+        \question Write in summation notation: \[3^3+3^4+\cdots+3^{14}\]
+    \end{minipage}
+
+    \vspace{\stretch{1}}
+\end{questions}
+
+
+\begin{tcolorbox}[title=Definition: \textit{Arithmetic Series},title filled,colframe=black,sharpish corners,width=\linewidth]
+
+An \textbf{arithmetic series} is the sum of the terms of an arithmetic sequence. The formula for the sum of the first $n$ terms of an arithmetic series is given by
+\[S_n=n\left(\frac{a_1+a_n}{2}\right)=\frac{n}{2}\left(2a_1+d(n-1)\right)\]
+where $S_n$ is the sum of the first $n$ terms, $a_1$ is the first term, and $a_n$ is the $n$th term.
+
+\end{tcolorbox}
+
+\subsection*{Examples}
+\begin{questions}
+    \question Find the sum of the given sequence: \[3+7+11+\cdots+47\]
+
+    \vspace{\stretch{1}}
+
+    \newpage
+
+    \question An arithmetic sequence has a first term $a_1=7$ and fourth term $a_4=22$. What value of $n$ is required to obtain $S_n=3043$?
+
+    \vspace{\stretch{1}}
+\end{questions}
+
+\begin{tcolorbox}[title=Definition: \textit{Geometric Series},title filled,colframe=black,sharpish corners,width=\linewidth]
+
+A \textbf{geometric series} is the sum of the terms of a geometric sequence. The formula for the sum of the first $n$ terms of a geometric series is given by
+\[S_n=\frac{a_1(1-r^n)}{1-r}\]
+where $S_n$ is the sum of the first $n$ terms, $a_1$ is the first term, and $r$ is the common ratio.
+
+\end{tcolorbox}
+
+\subsection*{Examples}
+
+\begin{questions}
+    \question Find the sum of the given sequence: \[2+6+18+\cdots+4374\]
+
+    \vspace{\stretch{1}}
+
+    \question A geometric sequence has a first term $a_1=2$ and common ratio $r=-\sqrt{2}$. What value of $n$ is required to obtain $S_n>300$?
+    \begin{solution}
+        The sum of the first $n$ terms of a geometric series is given by
+        \[S_n=\frac{a_1(1-r^n)}{1-r}\]
+        Substituting the given values, we have
+        \[2000=\frac{2(1-(-\sqrt{2})^n)}{1+\sqrt{2}}\]
+        Solving for $n$ yields $n=10$.
+    \end{solution}
+
+    \vspace{\stretch{1}}
+
+\end{questions}
+
+\newpage
+
+\section*{Check Your Understanding}
+
+\begin{questions}
+    \question How many terms are in the sequence $3,8,13,\ldots,73$?
+    \begin{solution}[\stretch{1}]
+        The common difference is $8-3=5$. The $n$th term is given by $a_n=3+5(n-1)=73$. Solving for $n$ yields $n=15$.
+    \end{solution}
+
+    \question Find the sum of the first 20 terms of the sequence $-3,1,-\frac{1}{3},\frac{1}{9},\ldots$.
+    \begin{solution}[\stretch{1}]
+        The first term is $a_1=-3$ and the common ratio is $r=-1/3$. The sum of the first 20 terms is
+        \[S_{20}=\frac{-3(1-(-\frac{1}{3})^{20})}{1+1/3}\approx -2.25\]
+    \end{solution}
+
+    \question Find the 18th term of the sequence $-x,\,-x+3,\,-x+6,\,-x+9,\ldots$.
+    \begin{solution}[\stretch{1}]
+        The common difference is $-x+3-(-x)=3$. The 18th term is $-x+3(18-1)=51-3x$.
+    \end{solution}
+
+    \question Determine a formula for the $n$th term of the sequence $\displaystyle x,\,\frac{x^2}{5},\,\frac{x^3}{25},\,\frac{x^4}{125},\ldots$
+    \begin{solution}[\stretch{1}]
+        The common ratio is $x/5$. The $n$th term is $x(x/5)^{n-1}=x^{n}/5^{n-1}$.
+    \end{solution}
+
+    \question Answer the following questions regarding summation notation.
+    \begin{parts}
+        \begin{minipage}[t]{.45\linewidth}
+            \part Evaluate $\displaystyle\sum_{i=1}^5 (2i-1)$.       
+        \end{minipage}
+        \hfill
+        \begin{minipage}[t]{.45\linewidth}
+            \part Write using summation notation \[\displaystyle9x+10x^2+11x^3+12x^4+\cdots+98x^{90}.\]       
+        \end{minipage}
+
+        \vspace{\stretch{.5}}
+
+        \begin{minipage}[t]{.45\linewidth}
+            \part Evaluate $\displaystyle\sum_{n=0}^{20}(1-7n)$.       
+        \end{minipage}
+        \hfill
+        \begin{minipage}[t]{.45\linewidth}
+            \part Write using summation notation \[4+8+12+16+\cdots+40.\]       
+        \end{minipage}
+
+        \vspace{\stretch{.5}}
+    \end{parts}
+
+    \newpage
+
+    \question The third term of an arithmetic sequence is 7 and the 10th term is 22.
+    \begin{parts}
+        \part Find the first term and common difference.
+        \begin{solution}[\stretch{1}]
+            The common difference is $22-7=15$. The first term is $7-2(15)=-23$.
+        \end{solution}
+        \part Find the sum of the first 20 terms.
+        \begin{solution}[\stretch{1}]
+            The sum of the first 20 terms is $S_{20}=20(-23+22)/2=-20$.
+        \end{solution}
+    \end{parts}
+
+    \question The 5th term of a geometric sequence is 3 and the 9th term is 81.
+    \begin{parts}
+        \part Find the common ratio(s).
+        \begin{solution}[\stretch{1}]
+            The common ratio is $\sqrt[4]{81/3}=3$.
+        \end{solution}
+        \part Find the sum(s) of the first 10 terms.
+        \begin{solution}[\stretch{1}]
+            The sum of the first 10 terms is $S_{10}=3(1-3^{10})/(1-3)=-29523$.
+        \end{solution}
+    \end{parts}
+
+
+\end{questions}
+
+
+
+\end{document}

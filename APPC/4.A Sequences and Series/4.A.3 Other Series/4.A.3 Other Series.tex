@@ -1,0 +1,62 @@
+\documentclass[addpoints]{exam}
+%%%%%%%%%%%%%%%%%% PACKAGES %%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins}
+\usepackage{tikz,tkz-euclide,tikz-3dplot}
+\usepackage{rotating}
+%%%%%%%%%%%%%%%%%%%%%% MARGINS%% %%%%%%%%%%%%%%%%%%%
+\extrawidth{.5in}
+\extraheadheight{-.25in}
+\extrafootheight{-.25in}
+%%%%%%%%%%%%%%%%%% ANSWERS AND POINTS %%%%%%%%%%%%%%
+%\printanswers
+\pointsinrightmargin
+\bracketedpoints
+%%%%%%%%%%%%%%%%%% HEADER AND FOOTER %%%%%%%%%%%%%%%
+\pagestyle{headandfoot}
+\firstpageheadrule
+\runningheadrule
+\firstpageheader{\S4.A.3 Other Series}{}{AP Precalc\\Mr. Carey}
+\runningheader{\S4.A.3 Other Series}{}{Mr. Carey}
+\firstpagefooter{}{}{}
+\runningfooter{ }{\thepage}{ }
+%%%%%%%%%%%%%%%%%%%%%% NOTES %%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%% DOCUMENT CONTENTS %%%%%%%%%%%%%%%
+\begin{document}
+\section*{Other Common Sequences and Series}
+\subsection*{Factorials}
+While this particular class does not focus on them much, they become important in calculus and probability.
+
+\begin{tcolorbox}[title=Definition: \textit{Factorial},title filled,colframe=black,sharpish corners,width=\linewidth]
+    For a nonnegative integer $n$, the \textbf{factorial} of $n$ is defined as
+    \[n! = n(n-1)(n-2)\cdots(3)(2)(1)\]
+    with the special case that $0! = 1$.\\
+    \\
+    The factorial of $n$ is the product of all positive integers less than or equal to $n$, which is a recursive sequence: $n! = n(n-1)!$.
+\end{tcolorbox}
+\noindent Simplify the following factorials.
+\begin{questions}
+    \begin{minipage}{.3\linewidth}
+        \question $\displaystyle\frac{8!}{2!\cdot6!}$
+    \end{minipage}
+    \hfill
+    \begin{minipage}{.3\linewidth}
+        \question $\displaystyle\frac{n!}{(n-1)!}$
+    \end{minipage}
+    \hfill
+    \begin{minipage}{.3\linewidth}
+        \question $\displaystyle\frac{4!(n+2)!}{6!n!}$
+    \end{minipage}
+
+    \vspace{\stretch{1}}
+\end{questions}
+
+
+
+
+
+
+\end{document}

@@ -1,0 +1,218 @@
+\documentclass[addpoints]{exam}
+%%%%%%%%%%%%%%%%%% PACKAGES %%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{tcolorbox}
+\usepackage{tikz,tkz-euclide,tikz-3dplot}
+%%%%%%%%%%%%%%%%%%%%%% MARGINS%% %%%%%%%%%%%%%%%%%%%
+\extrawidth{.5in}
+\extraheadheight{-.25in}
+\extrafootheight{-.25in}
+%%%%%%%%%%%%%%%%%% ANSWERS AND POINTS %%%%%%%%%%%%%%
+%\printanswers
+\pointsinrightmargin
+\bracketedpoints
+%%%%%%%%%%%%%%%%%% HEADER AND FOOTER %%%%%%%%%%%%%%%
+\pagestyle{headandfoot}
+\firstpageheadrule
+\runningheadrule
+\firstpageheader{\textbf{Calculator Allowed \& 65 Mins}\\Sequences and Series Test}{}{AP BC Calculus\\Mr. Carey}
+\runningheader{Sequences and Series Test}{}{Mr. Carey}
+\firstpagefooter{}{}{}
+\runningfooter{ }{\thepage}{ }
+%%%%%%%%%%%%%%%%%%%%%% NOTES %%%%%%%%%%%%%%%%%%%%%%%
+%The following code is for formatting T/F Questions
+\newcommand*{\TrueFalse}[1]{%
+\ifprintanswers
+    \ifthenelse{\equal{#1}{T}}{%
+        \textbf{TRUE}\hspace*{14pt}False
+    }{
+        True\hspace*{14pt}\textbf{FALSE}
+    }
+\else
+    {True}\hspace*{20pt}False
+\fi
+} 
+%% The following code is based on an answer by Gonzalo Medina
+%% https://tex.stackexchange.com/a/13106/39194
+\newlength\TFlengthA
+\newlength\TFlengthB
+\settowidth\TFlengthA{\hspace*{1.16in}}
+\newcommand\TFQuestion[2]{%
+    \setlength\TFlengthB{\linewidth}
+    \addtolength\TFlengthB{-\TFlengthA}
+    \parbox[t]{\TFlengthA}{\TrueFalse{#1}}\parbox[t]{\TFlengthB}{#2}}
+%%%%%%%%%%%%%%%%%% DOCUMENT CONTENTS %%%%%%%%%%%%%%%
+\begin{document}
+\vspace{1in}
+
+\noindent\makebox[.75\textwidth]{Name:\enspace\hrulefill} \hspace{.5in} Grade:\enspace\hrulefill/\numpoints
+
+\vspace{.1in}
+
+\begin{center}
+    \fbox{\fbox{\parbox{5.5in}{\centering
+    Answer the questions in the spaces provided on the following pages.  If you run out of room for an answer, continue on the back of the page. Show \textbf{all} your work to be able to receive full credit on any question.
+    \textbf{YOU ARE A MISSILE}}}}
+\end{center}
+
+\begin{questions}
+\fullwidth{For each statement below, circle whether they are true or false. As a reminder, a statement that is not always true is considered false. No work is needed for the following problems.}
+\question[3]\TFQuestion{T}{If $\displaystyle\lim_{n\to\infty}a_n=0$, then $\sum a_n$ is convergent.}
+\vspace{\stretch{1}}
+
+\question[3]\TFQuestion{T}{If $\sum a_n$ is divergent, then $\sum |a_n|$ is divergent.}
+\vspace{\stretch{1}}
+
+\question[3]\TFQuestion{T}{If $\sum a_n$ is divergent, then $\sum |a_n|$ is divergent.}
+\vspace{\stretch{1}}
+\question[3]\TFQuestion{T}{The ratio test can be used to determine whether $\sum 1/n!$ converges.}
+\vspace{\stretch{1}}
+\question[3]\TFQuestion{T}{The ratio test can be used to determine whether $\sum 1/n^3$ converges.}
+\vspace{\stretch{1}}
+\question[3]\TFQuestion{T}{If $0\le a_n\le b_n$ and $\sum b_n$ converges, then $\sum a_n$ converges.}
+\vspace{\stretch{1}}
+\question[3]\TFQuestion{T}{If $-1<\alpha<1$, then $\sum \alpha^n$ is convergent.}
+\vspace{\stretch{1}}
+\question[3]\TFQuestion{T}{If $a_n>0$ and $\displaystyle\lim_{n\to\infty}(a_{n+1}/a_n)=1$, then $\sum a_n$  converges.}
+\vspace{\stretch{1}}
+\question[3]\TFQuestion{T}{$\displaystyle\sum_{n=0}^{\infty}\frac{(-1)^n}{n!}=\frac{1}{e}$}
+\vspace{\stretch{1}}
+\question[3]\TFQuestion{T}{If a series converges, then the sequence of its terms converges.}
+\vspace{\stretch{1}}
+\question[3]\TFQuestion{T}{If a series converges, then the sequence of its partial sums converge.}
+\vspace{\stretch{1}}
+\question[3]\TFQuestion{T}{A series can be convergent without its sequence being convergent.}
+\vspace{\stretch{1}}
+\question[3]\TFQuestion{T}{If $a_n>0$ and $b_n>0$, $\sum b_n$ converges and $\displaystyle\lim_{n\to\infty}\frac{a_n}{b_n}=0$, then $\sum a_n$ is convergent.}
+\vspace{\stretch{1}}
+\question[3]\TFQuestion{T}{$\displaystyle\sin(x)=\sum_{n=0}^\infty\frac{(-1)^n x^{2n}}{(2n)!}$}
+\vspace{\stretch{1}}
+\question[3]\TFQuestion{T}{The alternating harmonic series is conditionally convergent.}
+\vspace{\stretch{1}}
+
+\newpage
+
+
+\question Determine whether the following series are convergent or divergent. Show all work to recieve full credit. An answer of convergent or divergent alone will yeild no credit.
+\begin{parts}
+    \part[10] $\displaystyle\sum_{n=2}^\infty\frac{\ln n}{n^3}$
+
+    \vspace{\stretch{1}}
+
+    \part[10]$\displaystyle\sum_{i=1}^\infty \left(\sqrt[i]{i}-1\right)^i$
+
+    \vspace{\stretch{1}}
+
+    \part[10]$\displaystyle\sum_{n=0}^\infty (-1)^{n+1} e^{\left(\frac{2}{n+1}\right)}$
+
+    \vspace{\stretch{1}}
+
+    \part[10]$\displaystyle\sum_{k=1}^\infty \frac{\arctan(k)}{k^{1.5}}$
+
+    \vspace{\stretch{1}}
+\end{parts}
+
+\newpage
+
+\question[10] Find the sum of the following convergent series.
+\begin{parts}
+    \begin{minipage}[t]{.45\linewidth}
+        \part $\displaystyle\sum_{n=0}^\infty \frac{3^{n+1}}{(-4)^n}$
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{.45\linewidth}
+        \part $\displaystyle\sum_{i=2}^\infty \left[\frac{1}{i^2}-\frac{1}{(i+2)^2}\right]$
+    \end{minipage}
+\end{parts}
+
+\vspace{\stretch{1}}
+
+\question[5] Find the raidus of convergence for the given power series.\\ $\displaystyle\sum_{n=0}^\infty \frac{2^n}{n!}(x-1)^n$
+
+\vspace{\stretch{.5}}
+
+\question[10] Find the interval of convergence for the given power series.\\ $\displaystyle\sum_{n=2}^\infty \frac{n}{n+1}\left(\frac{x}{4}\right)^{n-1}$
+
+\vspace{\stretch{1}}
+
+\newpage
+
+\question[15] Consider the function given by
+\[f(x)=\sum_{n=0}^\infty\frac{(-1)^n (x+2)^{n+1}}{n+1}.\]
+Answer the following.
+\begin{parts}
+    \part Find a series for $f'(x)$. Then, find its interval of convergence.
+
+    \vspace{\stretch{1}}
+
+    \part Write the series $\displaystyle\int_{-2}^{-1.3}f(x)dx$. You do not need to find the interval of convergence.
+
+    \vspace{\stretch{1}}
+
+    \part Show that the maximum error associated with the approximation of $S_7$ for the series obtained in part (b) is less than $\displaystyle\frac{29}{500}.$
+
+    \vspace{\stretch{1}}
+
+\end{parts}
+
+\newpage
+
+\question[30] Consider the following functions. Using any means, construct a power series for the given function at the specified center. Leave your answer in summation notation. Simplify completely.
+
+\begin{parts}
+    \part $\displaystyle h(x)=3xe^{-\frac{x^2}{3}},\,c=0$
+
+    \vspace{\stretch{1}}
+
+    \part $\displaystyle r(x)=\frac{1}{1+x},\,c=3$
+
+    \vspace{\stretch{1}}
+
+    \part $\displaystyle t(x)=\sin3x\cos3x,\,c=0$
+
+    \vspace{\stretch{1}}
+\end{parts}
+
+\newpage
+
+\question Let $f$ be the function given by $\displaystyle f(x)=\frac{1}{1-2x}$ and let $P_3(x)$ be the third degree MacLaurin Polynomial for $f$.
+\begin{parts}
+    \part[10] Find $P_3(x)$.
+    
+    \vspace{\stretch{1}}
+
+    \part[15] Use the Lagrange Error Bound to show that $\displaystyle\left|f\left(\frac{1}{6}\right)-P_3\left(\frac{1}{6}\right)\right|\le\frac{1}{1800}$.
+
+    \vspace{\stretch{1}}
+\end{parts}
+
+\newpage
+
+\question The function $\phi$ has a Taylor series about $x=2$ that converges for all $x$ in it's interval of convergence. The $n$th derivative of $\phi$ at $x=2$ is given by \[\phi^{(n)}(2)=\frac{(n+1)!}{3^n}\] for $n\ge1$.
+\begin{parts}
+    \part[10] Find an expression for the Lagrange Error bound associated with the approximation of $\phi(3)$ using the $n$th degree Taylor polynomial centered about $x=2$.
+
+    \vspace{\stretch{1}}
+
+    \part[10] How many terms are needed for the error to be less than $\displaystyle\frac{1}{1200}$?
+
+    \vspace{\stretch{.5}}
+\end{parts}
+
+
+\end{questions}
+
+\newpage
+
+\noindent\textbf{Extra Credit (10pts):} Consider the following series. \[\sum_{n=0}^\infty\frac{n!\cdot(n+1)!\cdot3^n}{\left(1\cdot3\cdot6\cdot\cdots\cdot(3n)\right)^2}.\] Determine the convergence or divergence of the series. Show all work.
+\vspace{\stretch{1}}
+
+
+
+
+
+
+
+
+\end{document}
