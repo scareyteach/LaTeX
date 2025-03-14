@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4 Portable) (preloaded format=pdflatex 2025.2.23)  11 MAR 2025 10:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4 Portable) (preloaded format=pdflatex 2025.2.23)  14 MAR 2025 07:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -588,7 +588,29 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \rotFPbot=\skip80
 \rot@float@box=\box82
 \rot@mess@toks=\toks43
-) (4.A.3 Other Series.aux)
+) (4.A.3 Other Series.aux
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+)
 \openout1 = `"4.A.3 Other Series.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -641,7 +663,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--39
 [1{C:/Users/scarey/scoop/apps/latex/current/texmfs/data/fonts/map/pdftex/pdftex.map}
 
 ]
-This exam contains 3 questions with 0 parts, 0 subparts, and 0 subsubparts.
+
+[2]
+
+[3]
+This exam contains 11 questions with 3 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
 (4.A.3 Other Series.aux)
@@ -649,19 +675,23 @@ This exam has a total of 0 bonus points.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 22929 strings out of 473530
- 528876 string characters out of 5709452
- 928549 words of memory out of 5000000
- 45681 multiletter control sequences out of 15000+600000
+ 22951 strings out of 473530
+ 529236 string characters out of 5709452
+ 932708 words of memory out of 5000000
+ 45703 multiletter control sequences out of 15000+600000
  562735 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  116i,10n,121p,1269b,607s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\scarey\scoop\apps\latex\current\texmfs/data\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "4.A.3 Other Series.pdf" (1 page, 73881 bytes).
+ <C:\Users\scarey\scoop\apps\latex\current\texmfs/data\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/scarey/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "4.A.3 Other Series.pdf" (3 pages, 135924 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

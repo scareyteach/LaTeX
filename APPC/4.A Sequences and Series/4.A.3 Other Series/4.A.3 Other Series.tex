@@ -54,9 +54,77 @@ While this particular class does not focus on them much, they become important i
     \vspace{\stretch{1}}
 \end{questions}
 
+\subsection*{Binomial Coefficient}
+\begin{tcolorbox}[title=Definition: \textit{Combinations},title filled,colframe=black,sharpish corners,width=\linewidth]
+    For a nonnegative integers $n$ and $r$, with $0\le r\le n$, then \[_nC_r=\frac{n!}{(n-r)!r!}.\] The symbol $\displaystyle\binom{n}{r}$ is often used of the $C$ notation when referring to the binomial coefficient. 
+\end{tcolorbox}
+\noindent Evaluate each of the following expressions.
+\begin{questions}
+    \begin{minipage}{.2\linewidth}
+        \question $\displaystyle_8C_2$
+    \end{minipage}
+    \hfill
+    \begin{minipage}{.2\linewidth}
+        \question $\displaystyle\binom{10}{3}$
+    \end{minipage}
+    \hfill
+    \begin{minipage}{.2\linewidth}
+        \question $\displaystyle_7C_4$
+    \end{minipage}
+    \begin{minipage}{.2\linewidth}
+        \question $\displaystyle_7C_3$
+    \end{minipage}
+
+    \vspace{\stretch{1}}
+\end{questions}
+
+\newpage
+
+\subsection*{The Binomial Theorem}
+\noindent\textbf{Introductory Example:}\\ 
+By repeated foiling, expand the expression $(x+y)^3$. Then, compute the values of $\displaystyle\binom{3}{0},\,\binom{3}{1},\,\binom{3}{2},$ and $\displaystyle\binom{3}{3}$. What do you notice?
+
+\vspace{\stretch{1}}
+
+\begin{tcolorbox}[title=Definition: \textit{The Binomial Theorem},title filled,colframe=black,sharpish corners,width=\linewidth]
+For all $n\in\mathbb{Z}^+$, the expansion of $(x+y)^n$ is \[(x+y)^n=x^n+nx^{n-1}y+\cdots+\binom{n}{r}x^{n-r}y^r+\cdots+nxy^{n-1}+y^n.\] The Binomial Theorem allows us to expand, or partially expand, binomials quickly or to higher degrees without foiling repeatedly.
+\end{tcolorbox}
+
+\noindent\textbf{Practice:} .
+\begin{questions}
+    \question Expand each expression
+    
+    \begin{parts}
+        \part $\displaystyle(2x+1)^4$
+
+        \vspace{\stretch{.6}}
+
+        \part $\displaystyle(3x-2y)^5$
+
+        \vspace{\stretch{.6}}
+
+        \part $\displaystyle\left(x^{2}+\frac{1}{x}\right)^6$
+
+        \vspace{\stretch{.6}}
+    \end{parts}
 
 
 
+\newpage
+
+    \question Find the sixth term of the expansion of $(a+2b)^8$.
+
+    \vspace{\stretch{1}}
+
+    \question Find the coefficient of the $a^6b^5$ term in the expansion of $(2a-5b)^11$.
+
+    \vspace{\stretch{1}}
+
+    \question Find the coefficient of the constant term in the expansion of $\left(3x - \frac{2}{x^2}\right)^{10}$.
+
+    \vspace{\stretch{1}}
+
+\end{questions}
 
 
 \end{document}
